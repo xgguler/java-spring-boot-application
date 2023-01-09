@@ -21,8 +21,4 @@ A sample Java & Spring Boot application to provide basic REST API structure with
 * Download dependencies
 * Run Application class
 * Application will be started on localhost 8080 port.
-* You can send POST request with request body to http://localhost:8080/api/play
-* {
-  "bet": 40.5,
-  "number": 50
-  }
+* You can send POST request with request body to http://localhost:8080/api/contact-list to get the contact list.
